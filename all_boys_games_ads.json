@@ -23,9 +23,9 @@
     "rateUs": false,
     "shareApp": false,
     "playMain": true,
-    "playBack": true,
+    "playBack": false,
     "playSimilar": true,
-    "play2Main": false,
+    "play2Main": true,
     "play2Back": true,
     "play2Similar": true
   },
