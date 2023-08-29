@@ -17,17 +17,17 @@
     "categoryBack": false,
     "settingIcon": true,
     "settingBack": false,
-    "gameListMain": true,
+    "gameListMain": false,
     "gameListBack": false,
     "recentPlay": true,
     "rateUs": false,
     "shareApp": false,
-    "playMain": false,
-    "playBack": true,
-    "playSimilar": true,
-    "play2Main": false,
+    "playMain": true,
+    "playBack": false,
+    "playSimilar": false,
+    "play2Main": true,
     "play2Back": false,
-    "play2Similar": true
+    "play2Similar": false
   },
   "ads_data": {
     "home_page": {
