@@ -10,7 +10,7 @@
     "inter_ad_id": "/229445249,22889861963/highR_RS88_BoyGames_98_INTERSTITIAL_1382_290823",
     "native_ad_id": "/229445249,22889861963/highR_RS88_BoyGames_98_NATIVE_1384_290823",
     "banner_ad_id": "/229445249,22889861963/highR_RS88_BoyGames_98_BANNER_1383_290823",
-    "getStarted": true,
+    "getStarted": false,
     "getStartedBack": true, 
     "homeMain": false,
     "homeBack": false,
@@ -24,10 +24,10 @@
     "rateUs": false,
     "shareApp": false,
     "playMain": false,
-    "playBack": true,
+    "playBack": false,
     "playSimilar": true,
     "play2Main": false,
-    "play2Back": false,
+    "play2Back": true,
     "play2Similar": true
   },
   "ads_data": {
