@@ -13,22 +13,22 @@
     "getStarted": false,
     "getStartedBack": false, 
     "homeMain": false,
-    "homeBack": false,
+    "homeBack": true,
     "categoryMain": true,
     "categoryBack": false,
     "settingIcon": true,
     "settingBack": false,
     "gameListMain": false,
-    "gameListBack": false,
-    "recentPlay": false,
+    "gameListBack": true,
+    "recentPlay": true,
     "rateUs": false,
     "shareApp": false,
     "playMain": false,
     "playBack": false,
-    "playSimilar": false,
+    "playSimilar": true,
     "play2Main": false,
     "play2Back": false,
-    "play2Similar": false
+    "play2Similar": true
   },
   "ads_data": {
     "home_page": {
